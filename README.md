@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mahdikh75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahdikh75" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahdikh75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdikh75" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahdi-khayamdar-137562182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahdi-khayamdar-137562182/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mahdikh75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahdikh75" height="30" width="40" /></a>
 <a href="https://instagram.com/mahdi.khayamdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdi.khayamdar" height="30" width="40" /></a>
 </p>
